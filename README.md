@@ -1,1 +1,1 @@
-echo ** Optional Vagrant Project** 
+** Optional Vagrant Project** 
